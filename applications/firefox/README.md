@@ -8,4 +8,5 @@
 
 I have the following settings modified in `about:config`
 
-- `browser.tabs.closeWindowWithLastTab = false` - This prevents the browser window from closing when the last tab is closed. 
+- `browser.tabs.closeWindowWithLastTab = false` - This prevents the browser window from closing when the last tab is closed.
+ 
